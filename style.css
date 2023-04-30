@@ -6,9 +6,9 @@ body {
   align-items: center;
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 1.6rem;
-  background: #ce4ee2;
-  color: rgb(152, 2, 142);
+  font-size: 1rem;
+  background: #bcd9f3;
+  color: rgb(0, 0, 0);
 }
 .app {
   width: 50%;
